@@ -1,0 +1,52 @@
+body{
+    background-color: #15202b;
+}
+
+
+.login{
+ display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: #15202b;
+    color: #fff;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+
+}
+
+
+.connectbtn{
+    background-color: #1c1c1e;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    letter-spacing: 1px;
+    border: 1px solid #fff;
+    transition: all 0.5s ease-in-out;
+}
+
+.connectbtn:hover{
+    background-color: #fff;
+    color: #15202b;
+    border: 1px solid #15202b;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+
+}
+
+.logininfo{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
