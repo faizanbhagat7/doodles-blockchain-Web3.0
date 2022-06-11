@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+<h1> Doodles-Blockchain-Web3.0 </h1>
+<h3>🌐 Decentralized Web 3.0 DAPP based on a self made Doodles NFT collection on blockchain Rinkeby testnet using Thirdweb.</h3>
+<h3>✨ Link for the deployed website : </h3>
+https://silver-toffee-501800.netlify.app
+<hr/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+![download](https://user-images.githubusercontent.com/100670861/173177473-7d85f60a-ac39-49cc-9892-1191a477b06f.png)
 
-In the project directory, you can run:
+<hr/>
+<h2>✨ Concepts :</h2>
+<h4>🚀 This is a decentralized Web Application.</h4>
+<h4>🚀 I have created a doodle based dummy NFT collection on Rinkeby Testnet using Thirdweb i.e. on the synchronization  testnet Blockchain.</h4>
+<h4>🚀 I have fetched all the NFT colllection data from the Blockchain and displayed NFT's and their information on a website created using React js.</h4>
+<h4>🚀 This is done with the help of Thirdweb SDK .</h4>
+<hr/>
 
-### `npm start`
+<h2>🔥 Features : </h2>
+<h3>🦊 As a Decentralized Website , It consists of Web 3.0 based Authentication i.e it persists Metamask Authentication.</h3>
+<h3>🚀 It displays all NFT's and their info from the Rinkeby Blockchain.</h3>
+<h3>✨ It supports real time update i.e if an NFT is minted to the collection, it will display all the new minted NFT's quickly on just a reload.</h3>
+<h3>🚀 Website is powered by React js --> React Hooks , Thirdweb hooks , Thirdweb SDK.</h3>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h2>🌐 Link for the collection on ThirdWeb :</h2>
+https://thirdweb.com/dashboard/rinkeby/nft-collection/0x9f8b8902466D9f3393B860Ed817e1dEDdD071507
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h2>🌐 Link for the collection on Opensea :</h2>
+https://testnets.opensea.io/collection/doodesfaizanbhagat
 
-### `npm run build`
+<h2>Preview of the authentication / Login module : </h2>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot (54)](https://user-images.githubusercontent.com/100670861/173178508-6f77df8b-382d-459b-af7c-1e8065d649f8.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h2>Preview of the Webpage : </h2>
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Screenshot (55)](https://user-images.githubusercontent.com/100670861/173178521-e783faf4-ab4b-4a82-8d69-f224892e13ff.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<br/>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h2>👩‍💻 Accessible for Anyone </h2>
+<h2>🚀 Feel free to add more features </h2>
